@@ -1,0 +1,15 @@
+/Users/colburnsanders/sneakers-app/SneakerApp.Core/bin/Debug/net6.0/SneakerApp.Core.deps.json
+/Users/colburnsanders/sneakers-app/SneakerApp.Core/bin/Debug/net6.0/SneakerApp.Core.dll
+/Users/colburnsanders/sneakers-app/SneakerApp.Core/bin/Debug/net6.0/SneakerApp.Core.pdb
+/Users/colburnsanders/sneakers-app/SneakerApp.Core/bin/Debug/net6.0/SneakerApp.Infrastructure.dll
+/Users/colburnsanders/sneakers-app/SneakerApp.Core/bin/Debug/net6.0/SneakerApp.Infrastructure.pdb
+/Users/colburnsanders/sneakers-app/SneakerApp.Core/obj/Debug/net6.0/SneakerApp.Core.csproj.AssemblyReference.cache
+/Users/colburnsanders/sneakers-app/SneakerApp.Core/obj/Debug/net6.0/SneakerApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/colburnsanders/sneakers-app/SneakerApp.Core/obj/Debug/net6.0/SneakerApp.Core.AssemblyInfoInputs.cache
+/Users/colburnsanders/sneakers-app/SneakerApp.Core/obj/Debug/net6.0/SneakerApp.Core.AssemblyInfo.cs
+/Users/colburnsanders/sneakers-app/SneakerApp.Core/obj/Debug/net6.0/SneakerApp.Core.csproj.CoreCompileInputs.cache
+/Users/colburnsanders/sneakers-app/SneakerApp.Core/obj/Debug/net6.0/SneakerApp.Core.csproj.CopyComplete
+/Users/colburnsanders/sneakers-app/SneakerApp.Core/obj/Debug/net6.0/SneakerApp.Core.dll
+/Users/colburnsanders/sneakers-app/SneakerApp.Core/obj/Debug/net6.0/refint/SneakerApp.Core.dll
+/Users/colburnsanders/sneakers-app/SneakerApp.Core/obj/Debug/net6.0/SneakerApp.Core.pdb
+/Users/colburnsanders/sneakers-app/SneakerApp.Core/obj/Debug/net6.0/ref/SneakerApp.Core.dll
